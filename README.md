@@ -30,4 +30,3 @@ https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public
 - [绅士漫画](https://www.wnacg.com)
 - [野蛮漫画](https://yemancomic.com)
 - [集云漫画](https://www.colamanga.com)
-- 
