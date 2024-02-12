@@ -1,4 +1,4 @@
-# aidoku-zh-sources
+# aidoku-zh-mujinhexi
 
 Aidoku 中文图源
 
